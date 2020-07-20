@@ -1,7 +1,7 @@
-#### Tweet sentiment extraction
+#### Google QUEST Q&A Labeling
 
-- 项目是对kaggle题目tweet sentiment extraction的练习
-    - https://www.kaggle.com/c/tweet-sentiment-extraction
+- 项目是对kaggle题目Google QUEST Q&A Labeling的练习
+    - https://www.kaggle.com/c/google-quest-challenge
 - 通过使用BERT模型来进行训练
 
 ---
