@@ -3,6 +3,7 @@
 - 项目是对kaggle题目Google QUEST Q&A Labeling的练习
     - https://www.kaggle.com/c/google-quest-challenge
 - 通过使用BERT模型来进行训练
+- 本项目从youtube上的一些教程得到了些许经验
 
 ---
 - 项目介绍
